@@ -124,6 +124,32 @@ h4 {
     margin-left: 33%;
     padding-bottom: 45px;
   }
+  .menu-logo{
+    height: 30px;
+    background-color: white;
+    margin-top: 60px;
+  }
+  .menu2-logo{
+    width: 70px;
+    height: 30px;
+    bottom: 20px;
+    left: 60px;
+  }
+  .ul-nav{
+    font-size: calc(8vw + 10px);
+    left: 50%;
+   bottom: -30px;
+   font-weight: bolder;
+  }
+  .home-b{
+    color: #a7cb00;
+  }
+  .three-lines{
+    left: 80%;
+    bottom: 20px;
+    font-size: 40px;
+    color: #a7cb00;
+  }
   .search{
     color: white;
     background-color: #a7cb00;
