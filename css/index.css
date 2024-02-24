@@ -159,7 +159,7 @@ h4 {
   .side-menu{
     text-align: center;
       line-height: 60px;
-     margin-right: 60px;
+     margin-right: 20px;
      margin-top: 30%;
   }  
   
@@ -180,15 +180,15 @@ h4 {
     height: 230px;
    margin-bottom: 20px;
     text-align: left;
-    border: 1px solid #eeeeee;
+    border: 0px solid #eeeeee;
      border-radius: 10px;
-     transition: all 400ms linear 0s;
+     transition: all 200ms linear 0s;
   }
 
 
   .Architecture:hover {
     border: none;
-    box-shadow: 0px 0px 6px rgb(211, 211, 211);
+    box-shadow: 0px 0px 5px rgb(211, 211, 211);
     }
 
   .text-container{
@@ -353,7 +353,9 @@ h4 {
     padding-top: 120px;
   }
 
-
+.bi-star-fill{
+  color: #ffc000;
+}
 
 @media all and (min-width:299px){
   p {
@@ -432,7 +434,7 @@ h4 {
                   .Architecture{
                     width: 30%;
                     margin-left: 20px;
-                    border: 1px solid #eeeeee;
+                    border: 0px solid #eeeeee;
                     border-radius: 10px;
                    height: 253px;
                
