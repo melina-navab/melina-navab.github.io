@@ -1,0 +1,441 @@
+p {
+    width: 80%;
+    color: #898e90;  
+  }
+h2{
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+ 
+h4 {
+    font-size: calc(4vw + 7px);
+    font-weight: 600;
+    transition: all 200ms linear 0s;
+  }
+  .custom-hover:hover h4 {
+    color: #a7cb00;
+  }
+  
+
+  h6{
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    margin-top: 10px;
+  }
+  
+  a{
+    text-decoration: none;  
+    color: black;
+  }
+  ul {
+    list-style: none;
+    text-align: center;
+    margin-left: -20px;
+    
+  }
+  li {
+    display: inline-block;
+    font-size: calc(1vw + 0.5px);
+  }
+
+  img{
+    transition: all 200ms ease 0s;
+  }
+
+  
+
+.button1{
+  text-align: center;
+  font-weight: bold;
+  background-color: #a7cb00;
+  color: white;
+  padding:15px 30px;
+  margin-right: 10px;
+  transition: all 300ms linear 0s;
+  opacity: 1;
+  
+  }
+  
+  .button2{
+    padding:15px 30px;
+    font-weight: bold;
+  color: white;
+  border: 1px solid white;
+  transition: all 300ms linear 0s;
+  }
+  
+  .button1:hover{
+    color: #a7cb00;
+    background: transparent;
+    border: 1px solid #a7cb00;
+  }
+  
+  .button2:hover{
+    color:#a7cb00;
+  }
+  
+  
+  
+
+  
+ 
+  input{
+    background-color: #222222;
+    border: 1px solid #333333;
+    height: 35px;
+  }
+  button{
+    background-color: #a7cb00;
+    height: 35px;
+    border: none;
+  }
+  li:hover a{
+    color:#a7cb00;
+  }
+  .telegram-b{
+    width: 40px;
+  }
+
+
+  .custom-hover:hover img{
+    opacity: 0.2;
+  }
+
+.img:hover h4 {
+    color: #a7cb00;
+  }
+  
+
+
+  .header{
+    background-image: url(../images/1.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 900px;
+  color: white;
+  }
+  .header-container{
+    margin-top: 20%;
+    margin-left: 10%;
+  }
+  .logo{
+    padding-top: 45px;
+    margin-left: 33%;
+    padding-bottom: 45px;
+  }
+  .search{
+    color: white;
+    background-color: #a7cb00;
+    border: none;
+    margin-left: 7%;
+  }
+  .side-menu{
+    text-align: center;
+      line-height: 60px;
+     margin-right: 60px;
+     margin-top: 30%;
+  }  
+  
+  .li-a{
+    font-size: 18px;
+  }
+  .header-icon{
+    margin-top: 90%;
+    margin-left: 30%;
+   }
+   .icon-color{
+     color: #dddddd;
+   }
+    
+     
+
+  .Architecture{
+    height: 230px;
+   margin-bottom: 20px;
+    text-align: left;
+    border: 1px solid #eeeeee;
+     border-radius: 10px;
+     transition: all 400ms linear 0s;
+  }
+
+
+  .Architecture:hover {
+    border: none;
+    box-shadow: 0px 0px 6px rgb(211, 211, 211);
+    }
+
+  .text-container{
+    width: 100%;
+    box-shadow: 0px 5px 30px 0px rgba(153, 153, 153, 0.1);
+    border-radius: 5px;
+    padding: 70px 45px;
+    overflow: hidden;
+   
+  }
+  
+  .design{
+    text-align: left;
+    background-color: white;
+    border-bottom: 1px solid #a7cb00;
+    font-weight: 600;
+  }
+  .left{
+    float: right;
+  }
+  .image-2-div{
+    width: 200px;
+    height: 650px;
+    overflow: hidden;
+    background-image: url(../images/meeting.webp);
+    background-repeat: no-repeat;
+    background-position: cover;
+  }
+  
+  
+
+
+
+
+  .parent-content {
+    bottom: 0;
+    }
+
+  .position{
+    height: 60px;
+              }
+
+
+
+  .fluid-wallpaper{
+    background-color: #f9f9ff;
+    height: auto;
+    padding: 10%;
+  }
+  .items-test1{
+    background-color: white;
+    padding: 20%;
+  }
+
+  .items-test{
+    margin-top: 30%;
+  }
+
+
+  .custom-hover1:hover .person-hover{
+    bottom: 40px;
+    opacity: 1;
+   }
+   .person-hover{
+    background-color:white ;
+    height: 60px;
+    bottom: 0px;
+    transition: all 200ms linear 0s;
+    opacity: 0;
+  }
+    
+
+
+  .icon-person{
+    margin-right: 20px;
+    color: #a0a0a0;
+    line-height: 50px;
+    transition: all 200ms linear 0s;
+  }
+
+  .icon-person:hover{
+    color: #a7cb00;
+  }
+
+
+
+  .latest{
+    background-color: #f9f9ff;
+  }
+
+  .text-lorem{
+    font-size: 16px;
+  }
+
+
+ .custom-hover2:hover h4 {
+    color: #a7cb00;
+  }
+
+.custom-hover2{
+  left: 0;
+}
+.date{
+    font-size: 13px;
+    padding: 30px 0;
+  }
+  .date-font{
+    color: #777777;
+  }
+
+
+
+.project-text{
+    height: 400px;
+    background-image: url(../images/background-long.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    text-align: center;
+  }
+
+  .project-text-div{
+    margin-top: 12%;
+    }
+ 
+    .a-long{
+        background-color: #a7cb00;
+        padding: 15px 30px;
+        font-size: 13px;
+      }
+ 
+ 
+ 
+ .li-footer{
+        color: #6a6a6a;
+      }
+      
+.footer-icon{
+        color: white;
+        margin-top: 4%;
+        text-align: right;
+      }
+
+.footer-icon1:hover{
+        color: #a7cb00;
+      }
+
+
+.footer-icon1 {
+        transition: all 300ms linear 0s;}
+        
+        
+.footer{
+            border-top: 1px solid #333333;
+          }
+
+.mel{
+    background-color: #222222;
+}
+ 
+.mel-c{
+    padding-top: 120px;
+  }
+
+
+
+@media all and (min-width:299px){
+  p {
+                    font-size: calc(2vw + 4px);
+                  }
+              
+  
+                  h2{
+                    font-size: calc(4vw + 8px);
+                  }
+                    
+  h4 {
+    font-size: calc(1vw + 6px);
+  }
+
+
+                
+               
+              
+            
+}
+@media all and (min-width:576px){
+    p {
+                    font-size: calc(1vw + 7px);
+                
+                 }
+  h2{
+    font-size: calc(2vw + 8px);
+  }
+ 
+  
+  h4 {
+    font-size: calc(1vw + 7px);
+  }
+
+
+
+  .Architecture{
+    height: 230px;
+   margin-bottom: 20px;
+    
+  }
+
+  .text-lorem{
+    font-size: calc(2vw + 5px);
+  }
+  .text-container{
+    width: 500px;
+        z-index: 1;
+    margin-top: 10%;
+    background-color: white;
+    position: absolute;
+  }
+  .image-2-div{
+    width: 100px;
+    background-image: url(../images/meeting.webp);
+    background-repeat: no-repeat;
+    background-position: cover;
+    position: relative;
+  }
+  
+
+}
+@media all and (min-width:992px){
+    p {
+                    font-size: calc(0.75vw + 4px);
+                    
+                  }
+
+
+
+
+
+
+
+                  .Architecture{
+                    width: 30%;
+                    margin-left: 20px;
+                    border: 1px solid #eeeeee;
+                    border-radius: 10px;
+                   height: 253px;
+               
+                  }
+
+               
+
+
+                  .position{
+                    text-align: center;
+                  margin-top: 5%;
+                  
+                  }
+
+
+                  .text-container{
+                    margin-top: 7%;
+                    margin-left: 5%;
+                  }
+                   
+.design{
+  margin-bottom: 20px;
+}
+
+
+.text-lorem{
+                    font-size: calc(1vw + 2px);
+                  }
+
+
+
+}
